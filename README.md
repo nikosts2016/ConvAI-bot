@@ -10,9 +10,9 @@ capable of conversing with humans about given text (e.g. a paragraph from
 Wikipedia article). The conversation is enabled by a set of skills, including
 chit-chat, topics detection, text summarization, question answering and question
 generation. The system has been trained in a supervised fashion to select an
-appropriate skill for generating a response. Furthermore, we have developed an
+appropriate skill for generating a response. Furthermore, it has been developed an
 overall dialog quality scorer and next utterance scorer to correct agent's
-policy. Our bot is implemented with open source software and open data; it is
+policy. This bot is implemented with open source software and open data; it is
 self-hosted, and employs a supervised dialog manager with a linear hierarchy.
 The latter allows a researcher to focus on skill implementation rather than
 finite state machine development.
